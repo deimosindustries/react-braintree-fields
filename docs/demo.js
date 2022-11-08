@@ -230,7 +230,8 @@ class BraintreeClientApi {
 
           if (this.wrapperHandlers.onThreeDSecureReady) {
             braintree_web_three_d_secure__WEBPACK_IMPORTED_MODULE_3___default().create({
-              client: clientInstance
+              client: clientInstance,
+              version: 2
             }, this.wrapperHandlers.onThreeDSecureReady);
           }
 

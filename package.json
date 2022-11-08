@@ -1,12 +1,12 @@
 {
-  "name": "react-braintree-fields",
+  "name": "@deimosindustries/react-braintree-fields",
   "version": "1.8.0",
-  "description": "React component for braintree hosted fields",
+  "description": "React component for braintree hosted fields, 3DS2-enabled package forked from nathanstitt/react-braintree-fields",
   "browser": "dist/build.full.js",
   "main": "dist/build.full.js",
   "module": "dist/build.module.js",
   "jsnext:main": "dist/build.module.js",
-  "repository": "https://github.com/nathanstitt/react-braintree-fields.git",
+  "repository": "https://github.com/deimosindustries/react-braintree-fields.git",
   "author": "Nathan Stitt",
   "license": "MIT",
   "peerDependencies": {
